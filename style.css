@@ -237,6 +237,7 @@ button:visited
 nav {
   float: left;
   width: 20%;
+  margin-left: 0.5%;
   padding: 20px;
   background-color: #777;
 
@@ -259,7 +260,7 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  margin: 1%;
+  margin-right: 0.5%;
   width: 79%;
   background-color: #777;
 }
