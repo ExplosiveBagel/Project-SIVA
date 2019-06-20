@@ -236,9 +236,8 @@ button:visited
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
-  width: 19.5%;
+  width: 20%;
   padding: 20px;
-  margin: 0.5%;
   background-color: #777;
 
 }
@@ -260,8 +259,8 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  margin: 0.5%;
-  width: 79.5%;
+  margin: 1%;
+  width: 79%;
   background-color: #777;
 }
 
