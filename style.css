@@ -188,11 +188,12 @@ button:visited
 }
 
 @keyframes BackGrndChange {
-	0%, 100% { background-color: #b3b3b3 }
+	0% { background-color: #b3b3b3 }
 	20% { background-color: #a6a6a6; }
 	40% { background-color: #999999; }
 	60% { background-color: #8c8c8c; }
 	80% { background-color: #808080; }
+	100% { background-color: #b3b3b3; }
 }
 
 #Confirm {
