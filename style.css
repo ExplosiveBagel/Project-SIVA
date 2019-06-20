@@ -161,13 +161,13 @@ button:visited
 }
 
 @keyframes typing2 {
-	from { width: 0 }
-	to { width: 1250px }
+	from { width: 0% }
+	to { width: 80% }
 }
 
 @keyframes typing3 {
-	from { width: 0 }
-	to { width: 1000px }
+	from { width: 0% }
+	to { width: 80% }
 }
 
 @keyframes blinking-cursor {
