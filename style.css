@@ -15,7 +15,7 @@ body {
 }
 
 * {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 header {
@@ -25,7 +25,7 @@ header {
 }
 
 p {
- font-size: 20px;
+ 	font-size: 20px;
 }
 
 h1 {
@@ -47,8 +47,6 @@ a:link {
 a:visited {
 	color: hsla(0,0%,100%,.8);
 }
-
-button:visited 
 
 .navbar {
 	position: static;
@@ -216,8 +214,8 @@ button:visited
 }
 
 #Confirm {
-  position: absolute;
-  margin-left: 75%;
+  	position: absolute;
+  	margin-left: 75%;
 	transition: opacity 0.15s;
 	opacity: 0;
 	-webkit-appearance: none;
@@ -235,18 +233,18 @@ button:visited
 
 /* Create two columns/boxes that floats next to each other */
 nav {
-  float: left;
-  width: 20%;
-  margin-left: 0.5%;
-  padding: 20px;
-  background-color: #777;
+  	float: left;
+  	width: 20%;
+  	margin-left: 0.5%;
+  	padding: 20px;
+  	background-color: #777;
 
 }
 
 /* Style the list inside the menu */
 nav ul {
-  list-style-type: none;
-  padding: 0;
+  	list-style-type: none;
+  	padding: 0;
 }
 
 #home {
@@ -254,21 +252,21 @@ nav ul {
 	padding: 40px;
 	transition: opacity 1s;
 	opacity: 0;
- font-size: 20px;
+ 	font-size: 20px;
 }
 
 article {
-  float: left;
-  padding: 20px;
-  margin-right: 0.5%;
-  width: 79%;
-  background-color: #777;
+  	float: left;
+  	padding: 20px;
+  	margin-right: 0.5%;
+  	width: 79%;
+  	background-color: #777;
 }
 
 section:after {
- content: "";
- display: table;
- clear: both;
+ 	content: "";
+ 	display: table;
+ 	clear: both;
 }
 
 #news {
