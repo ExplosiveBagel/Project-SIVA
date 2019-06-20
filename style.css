@@ -5,6 +5,7 @@ body {
 	animation: BackGrndChange 5s infinite alternate;
 	-webkit-animation: BackGrndChange 5s infinite alternate;
 	height: 2000px;
+	w
 	background-image: url('https://svgshare.com/i/Daj.svg');
 	background-repeat: no-repeat;
 	background-size: 100% 325px;
@@ -119,7 +120,7 @@ a:visited {
 	animation: typing1 2s steps(60, end) 1, blinking-cursor .5s step-end infinite;
 	animation-direction: alternate;
 	text-align: center;
-	width: 510px;
+	width: 28%;
 }
 
 .typewriter2 {
@@ -134,7 +135,7 @@ a:visited {
 	animation-iteration-count:2, infinite;
 	animation-direction: alternate;
 	text-align: center;
-	width: 1250px;
+	width: 45%;
 }
 
 .typewriter3 {
@@ -154,12 +155,12 @@ a:visited {
 
 @keyframes typing1 {
 	from { width: 0 }
-	to { width: 500px }
+	to { width: 28% }
 }
 
 @keyframes typing2 {
 	from { width: 0% }
-	to { width: 80% }
+	to { width: 45% }
 }
 
 @keyframes typing3 {
