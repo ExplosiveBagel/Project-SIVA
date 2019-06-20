@@ -4,7 +4,6 @@
 body {
 	animation: BackGrndChange 10s infinite;
 	-webkit-animation: BackGrndChange 10s infinite;
-	background-color: #888;
 	height: 2000px;
 	background-image: url('https://svgshare.com/i/Daj.svg');
 	background-repeat: no-repeat;
