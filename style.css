@@ -152,7 +152,7 @@ a:visited {
 	animation-iteration-count:1, infinite;
 	animation-direction: alternate;
 	text-align: center;
-	width: 1000px;
+	width: 50%;
 }
 
 @keyframes typing1 {
@@ -167,7 +167,7 @@ a:visited {
 
 @keyframes typing3 {
 	from { width: 0% }
-	to { width: 80% }
+	to { width: 50% }
 }
 
 @keyframes blinking-cursor {
