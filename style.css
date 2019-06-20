@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body {
-	animation: BackGrndChange 10s infinite alternate;
-	-webkit-animation: BackGrndChange 10s infinite alternate;
+	animation: BackGrndChange 5s infinite alternate;
+	-webkit-animation: BackGrndChange 5s infinite alternate;
 	height: 2000px;
 	background-image: url('https://svgshare.com/i/Daj.svg');
 	background-repeat: no-repeat;
