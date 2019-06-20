@@ -188,21 +188,31 @@ button:visited
 }
 
 @keyframes BackGrndChange {
-	0% { background-color: #b3b3b3 }
-	20% { background-color: #a6a6a6; }
-	40% { background-color: #999999; }
-	60% { background-color: #8c8c8c; }
-	80% { background-color: #808080; }
-	100% { background-color: #b3b3b3; }
+	0% { background-color: #A0A0A0; }
+	10% { background-color: #989898; }
+	20% { background-color: #909090; }
+	30% { background-color: #888888; }
+	40% { background-color: #808080; }
+	50% { background-color: #787878; }
+	60% { background-color: #707070; }
+	70% { background-color: #696969; }
+	80% { background-color: #686868; }
+	90% { background-color: #606060; }
+	100% { background-color: #585858; }
 }
 
 @-webkit-keyframes BackGrndChange {
-	0% { background-color: #b3b3b3 }
-	20% { background-color: #a6a6a6; }
-	40% { background-color: #999999; }
-	60% { background-color: #8c8c8c; }
-	80% { background-color: #808080; }
-	100% { background-color: #b3b3b3; }
+	0% { background-color: #A0A0A0; }
+	10% { background-color: #989898; }
+	20% { background-color: #909090; }
+	30% { background-color: #888888; }
+	40% { background-color: #808080; }
+	50% { background-color: #787878; }
+	60% { background-color: #707070; }
+	70% { background-color: #696969; }
+	80% { background-color: #686868; }
+	90% { background-color: #606060; }
+	100% { background-color: #585858; }
 }
 
 #Confirm {
