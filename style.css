@@ -120,7 +120,7 @@ a:visited {
 	animation: typing1 2s steps(60, end) 1, blinking-cursor .5s step-end infinite;
 	animation-direction: alternate;
 	text-align: center;
-	width: 28%;
+	width: 450px;
 }
 
 .typewriter2 {
@@ -157,16 +157,16 @@ a:visited {
 
 @keyframes typing1 {
 	from { width: 0 }
-	to { width: 28% }
+	to { width: 450px }
 }
 
 @keyframes typing2 {
-	from { width: 0% }
+	from { width: 0 }
 	to { width: 45% }
 }
 
 @keyframes typing3 {
-	from { width: 0% }
+	from { width: 0 }
 	to { width: 50% }
 }
 
