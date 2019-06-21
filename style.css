@@ -220,9 +220,8 @@ a:visited {
 	transition: opacity 0.15s;
 	opacity: 0;
 	-webkit-appearance: none;
-	appearance: none;
 	box-shadow: 1px 2px 8px #666;
-	height: 5%;
+	height: 95px;
 	width: 305px;
 	font-size: 20;
 	font-family: 'Hind', sans-serif;
@@ -236,8 +235,9 @@ a:visited {
 /* Create two columns/boxes that floats next to each other */
 nav {
   	float: left;
-  	width: 20%;
-  	margin-left: 0.5%;
+  	width: 294.5px;
+	height: 228px;
+  	margin-right: 5px;
   	padding: 20px;
   	background-color: #777;
 
@@ -258,9 +258,9 @@ nav ul {
 }
 
 article {
-  	float: left;
+  	float: right;
   	padding: 20px;
-  	margin-right: 0.5%;
+  	margin-left: 5px;
   	width: 79%;
   	background-color: #777;
 }
