@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Hind&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
-@media screen and (max-width: 400px;) {
+@media screen and (max-width: 420px;) {
 	@import url('style2.css');
 }
 
