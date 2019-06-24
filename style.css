@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 @media screen and (max-width: 400px;) {
-		
+	@import url('style2.css');
 }
 
 body {
