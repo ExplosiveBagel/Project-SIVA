@@ -1,8 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Hind&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
+@media screen and (orientation: landscape;) {
+	body {
+		
+}}
 
 body {
-	max-width: 420px;
-	background-color: yellow;
+	animation: BackGrndChange 5s infinite alternate;
+	-webkit-animation: BackGrndChange 5s infinite alternate;
+	height: 2000px;
+	background-image: url('SIVA Logo.png');
+	background-repeat: no-repeat;
+	background-size:  5% 5%;
+	background-position: center;
+	margin: 0;
+	font-family: 'nhg display', sans-serif, 'Apple Color Emoji','Segoe UI Emoji','NotoColorEmoji','Segoe UI Symbol','Android Emoji','EmojiSymbols';
+	color: hsla(0,0%,100%,.8);
 }
+
