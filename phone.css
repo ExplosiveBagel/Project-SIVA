@@ -12,9 +12,31 @@ body {
 	height: 2000px;
 	background-image: url('SIVA Logo.png');
 	background-repeat: no-repeat;
+	background-size: 25% 100px;
 	background-position: center;
 	margin: 0;
 	font-family: 'nhg display', sans-serif, 'Apple Color Emoji','Segoe UI Emoji','NotoColorEmoji','Segoe UI Symbol','Android Emoji','EmojiSymbols';
 	color: hsla(0,0%,100%,.8);
 }
 
+* {
+	box-sizing: border-box;
+}
+
+header {
+	font-family: 'Hind', 'Merriweather';
+	font-size: 35px;
+	text-align: left;
+}
+
+p {
+ 	font-size: 20px;
+}
+
+h1 {
+	font-family: 'monospace', sans-serif;
+	font-size: 48px;
+	line-height: 1;
+	font-weight: 500;
+	padding: 15px;
+}
