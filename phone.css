@@ -85,9 +85,8 @@ header {
 /* The button used to open the sidebar */
 .openbtn {
 	font-size: 20px;
-	cursor: pointer;
 	background-color: transparent;
-	color: white;
+	color: hsla(0,0%,100%,.8);
 	padding: 10px 15px;
 	border: none;
 }
