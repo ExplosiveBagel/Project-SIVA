@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body {
-    	background-image: SIVALogo.svg ;
+    	background-image: url('SIVALogo.svg') ;
     	animation: BackGrndChange 5s infinite alternate ;
 	-webkit-animation: BackGrndChange 5s infinite alternate;
 }
