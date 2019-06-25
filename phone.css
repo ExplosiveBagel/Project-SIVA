@@ -3,9 +3,9 @@
 
 body {
     	background-image: url('SIVALogo.svg') ;
-background-position: center;
-background-size: 75px 50px;
-background-repeat: no-repeat;
+	background-position: center;
+	background-size: 75px 50px;
+	background-repeat: no-repeat;
     	animation: BackGrndChange 5s infinite alternate ;
 	-webkit-animation: BackGrndChange 5s infinite alternate;
 }
