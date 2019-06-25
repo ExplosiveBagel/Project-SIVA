@@ -2,11 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body {
-    background-image: SIVALogo.svg ;
-    animation: BackGrndChange 5s infinite alternate ;
+    	background-image: SIVALogo.svg ;
+    	animation: BackGrndChange 5s infinite alternate ;
 	-webkit-animation: BackGrndChange 5s infinite alternate;
 }
 
+header {
+
+}
 
 @keyframes BackGrndChange {
 	0% { background-color: #A0A0A0; }
