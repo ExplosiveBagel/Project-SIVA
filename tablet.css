@@ -1,1 +1,14 @@
 
+
+
+body {
+	height: 2000px;
+	animation: BackGrndChange 5s infinite alternate ;
+	-webkit-animation: BackGrndChange 5s infinite alternate;
+	background-image: url('https://svgshare.com/i/Daj.svg');
+	background-repeat: no-repeat;
+	background-size: 100% 15%;
+	font-family: 'nhg display', sans-serif, 'Apple Color Emoji','Segoe UI Emoji','NotoColorEmoji','Segoe UI Symbol','Android Emoji','EmojiSymbols';
+	color: hsla(0,0%,100%,.8);
+	
+}
