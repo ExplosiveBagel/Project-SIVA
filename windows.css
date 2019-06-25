@@ -4,6 +4,8 @@
 
 body {
 	height: 2000px;
+	animation: BackGrndChange 5s infinite alternate ;
+	-webkit-animation: BackGrndChange 5s infinite alternate;
 	background-image: url('https://svgshare.com/i/Daj.svg');
 	background-repeat: no-repeat;
 	background-size: 100% 15%;
@@ -14,3 +16,32 @@ body {
 
 
 
+
+
+@keyframes BackGrndChange {
+	0% { background-color: #A0A0A0; }
+	10% { background-color: #989898; }
+	20% { background-color: #909090; }
+	30% { background-color: #888888; }
+	40% { background-color: #808080; }
+	50% { background-color: #787878; }
+	60% { background-color: #707070; }
+	70% { background-color: #696969; }
+	80% { background-color: #686868; }
+	90% { background-color: #606060; }
+	100% { background-color: #585858; }
+}
+
+@-webkit-keyframes BackGrndChange {
+	0% { background-color: #A0A0A0; }
+	10% { background-color: #989898; }
+	20% { background-color: #909090; }
+	30% { background-color: #888888; }
+	40% { background-color: #808080; }
+	50% { background-color: #787878; }
+	60% { background-color: #707070; }
+	70% { background-color: #696969; }
+	80% { background-color: #686868; }
+	90% { background-color: #606060; }
+	100% { background-color: #585858; }
+}
