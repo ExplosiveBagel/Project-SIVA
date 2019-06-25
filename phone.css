@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body {
-	height: 2000px
-    	background-image: url('SIVABW.svg') ;
+	height: 2000px;
+    	background-image: url('SIVABW.svg');
 	background-position-x: 50%;
 	background-position-y: 90%;
 	background-size: 100px 100px;
